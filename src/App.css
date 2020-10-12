@@ -1,14 +1,33 @@
+body {
+  height: 100vh;
+}
+
+.title {
+  margin: 24px;
+  text-align: center;
+}
+
 h1 {
   margin-bottom: 24px;
+  color: #0E6EB8;
+}
+
+h2 {
+  color: rgba(0, 0, 0, 0.6);
 }
 
 p {
-  margin-bottom: 48px;
+  color: rgba(0, 0, 0, 0.6);
+  padding: 0;
 }
 
 img {
   max-width: 100%;
   text-align: center;
-  margin-bottom: 24px;
+  margin-bottom: 64px;
+}
+
+.btn {
+  margin: 48px 0 48px 0;
 }
 /*# sourceMappingURL=App.css.map */
